@@ -1,11 +1,11 @@
 
   
   
-   # Generate a professional README 
+   #  Quick and easy README. Generator 
 
 
    ## Description
-   undefined
+     An easy to use application to produce a high-quality README for the this app and future projec
 
    ## Table of Contents
    - [Description](#description)
@@ -19,7 +19,7 @@
  
    
    ## Installation 
-   What dependencies are required to run the application: clone this repo, navigate to the index.js file, open the terminal within vs code right click on the "index.js file, right click and select 'open in integrated terminal
+   What dependencies are required to run the application: clone this repo, navigate to the index.js file, open the terminal within vs code right click on the "index.js file, right click and select 'open in integrated terminal'
    
    ## Usage
    In order to use this app: undefined
